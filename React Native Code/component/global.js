@@ -1,0 +1,13 @@
+global.drawername = "";
+global.draweruname = "";
+global.dataa = "";
+global.event = "";
+global.apii = "https://comunev.com:5000/api/";
+global.valuee = "";
+global.pending="";
+global.friendlist="";
+global.namee = [];
+global.chatroom = "";
+global.msg=  [{"_id": "5f8c1fc6e938e355f5cff6fc", "message": "Say Hi", "user": "bot"},{"_id": "5f8c1fc6e938e355f5cff6fc", "message": "Start Your journey with a new message", "user": "bot"}];
+global.webclient  ='615500108037-2qncv4bbvl4ai3i9in3rt7s2k6u6ggl5.apps.googleusercontent.com';
+global.eventt= [{"name":"Abcd","cost":100,"date":"2016-12-19T19:00:00.000Z"},{"name":"zfcd","cost":400,"date":"2020-12-19T19:25:00.000Z"},{"name":"cdcd","cost":300,"date":"2021-01-19T19:25:00.000Z"},{"name":"Fgcd","cost":200,"date":"2020-09-29T19:00:00.000Z"},{"name":"Aagf","cost":200,"date":"2020-10-18T19:00:00.000Z"}];
